@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="daycard"
+>
+  <center>
+    <h3
+      data-testid="day_test"
+    >
+      Today
+    </h3>
+    <img
+      alt="Weather Icon"
+      src="https://www.metaweather.com/static/img/weather/png/64/hr.png"
+    />
+    <br />
+    <strong
+      data-testid="temp_test"
+    >
+      23
+      ℃ 
+      15
+      ℃
+    </strong>
+    <br />
+    <strong
+      className="humid"
+      data-testid="temp_humidity"
+    >
+      Humidity 
+      75
+      %
+    </strong>
+  </center>
+</div>
+`;

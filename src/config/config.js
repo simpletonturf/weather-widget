@@ -1,0 +1,1 @@
+export const API_ENDPOINT = "https://cors-anywhere.herokuapp.com/https://www.metaweather.com";
